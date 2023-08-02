@@ -4,3 +4,4 @@ archives
 *.xcbkptlist
 Bls-Signature.xcodeproj/xcuserdata/skibinalexander.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
 Bls-Signature.xcodeproj/xcuserdata
+*.xcuserstate
